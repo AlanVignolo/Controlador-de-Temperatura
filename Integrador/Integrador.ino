@@ -1,5 +1,5 @@
 //  Bibliotecas del sensor
-#include <DHT.h>
+#include <DHT.h> 
 
 //  Variables volatiles para la interrupcion
 
