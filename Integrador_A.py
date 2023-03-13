@@ -13,9 +13,7 @@ Server.bind((Host, Port))
 Server.listen()
 
 print("\nEsperando conexion con PC 2...")
-
 conn, addr = Server.accept() #Espera mientras se conecta
-
 print("/nConexion exitosa")
 
 N = 5                           # Numero minimo de ciclos
